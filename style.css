@@ -60,23 +60,22 @@
     {
         width: 100%;
         height: 200px;
-        overflow: hidden;
-        display:flex;
+        flex:wrap;
 
     }
     #box2
     {
         width: 100%;
         height: 200px;
-        overflow: hidden;
-        display:flex;
+        flex:wrap;
+        
 
     }
     #box3
     {
         width: 100%;
         height: 200px;
-        overflow: hidden;
-        display:flex;
+        flex:wrap;
+       
     }
   }
