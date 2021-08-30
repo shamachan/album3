@@ -19,34 +19,41 @@
     height:300px ;
     float: left;
     margin-right: 2%;
+    margin-top: 10px;
+ 
 }
 #box1 img
 {
     height: 300px;
     width: 100%;
+   
 }
 #box2 img
 {
     height: 300px;
     width: 100%;
+   
 }
 #box3 img
 {
     height: 300px;
     width: 100%;
+ 
 }
 #box2{
     /* background-color:rgb(27, 30, 187); */
     width: 32%;
     height:300px ;
     float: left;
-    margin-right:2%;    
+    margin-right:2%;  
+    margin-top: 10px;
 }
 #box3{
     /* background-color: rgb(175, 16, 90); */
     width: 32%;
     height:300px ;
     float: right ;
+    margin-top: 10px;
 }
 @media only screen and (max-width: 600px) {
     #box1 
